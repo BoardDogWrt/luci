@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2024-09-14 19:14+0000\n"
+"PO-Revision-Date: 2024-09-16 09:50+0000\n"
 "Last-Translator: Džiugas Januševičius <dziugas1959@hotmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/openwrt/"
 "luciapplicationstravelmate/lt/>\n"
@@ -391,7 +391,7 @@ msgid ""
 "connections."
 msgstr ""
 "Minimalus signalo kokybės slenkstis procentais, skirtas sąlyginiams "
-"aukštynkriptiems (atsi-) prisijungimams."
+"aukštynkriptiems (atsi-) jungimams."
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:339
 #, fuzzy
@@ -592,7 +592,7 @@ msgstr ""
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:408
 msgid "Service Priority"
-msgstr "Tarnybos prioritetas"
+msgstr "Tarnybos pirmenybė"
 
 #: applications/luci-app-travelmate/htdocs/luci-static/resources/view/travelmate/overview.js:292
 msgid "Settings"
